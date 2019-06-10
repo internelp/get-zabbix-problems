@@ -2,6 +2,8 @@
 
 获取 zabbix 当前问题数量,用于 zcate 发送消息时设定 app 图标角标为 zabbix 当前问题数量.
 
+https://www.qiansw.com/how-to-use-zcate-to-receive-zabbix-alarm-messages.html
+
 ![image](4120784843.jpg)
 
 ## 使用方法
